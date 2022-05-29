@@ -6,7 +6,7 @@ This is my summary of the Effective DevOps, by Jennifer Davis and Ryn Daniels. C
 	- [A Snapshot of Devops Culture](#A-Snapshot-of-Devops-Culture)
 	- [The Evolution of Culture](#the-evolution-of-culture)
 	- [The Value of the Story](#the-value-of-the-story)
-	- [Ryn’s Story](#ryns-stiry)
+	- [Ryn’s Story](#ryns-story)
 	- [Jennifer’s Story](#Jennifers-Story)
 	- [Illustrating Devops with Stories](#Illustrating-Devops-with-Stories)
 - [Chapter 2. What Is Devops?](#chapter-2-what-is-devops)
