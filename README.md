@@ -23,8 +23,12 @@ This is my summary of the Effective DevOps, by Jennifer Davis and Ryn Daniels. C
 <!-- /TOC -->
 
 # Chapter 1. The Big Picture
+- Devops is a way of thinking and a way of working.
+	- It is a framework for sharing stories and developing empathy, enabling people and teams to practice their crafts in effective and lasting ways.
 ## A Snapshot of Devops Culture
+- Etsy's process of devops make the new engineer able to get involved quickly in the work process.
 ## The Evolution of Culture
+- Buy-in from management, freedom to experiment and work on non-customer-facing code, and trust across various teams all allowed these tools to be deployed and along with them, a culture of tooling, sharing, and collaboration.
 ## The Value of the Story
 ## Ryn’s Story
 ## Jennifer’s Story
