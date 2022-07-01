@@ -30,9 +30,8 @@ This is my summary of the Effective DevOps, by Jennifer Davis and Ryn Daniels. C
 ## The Evolution of Culture
 - Buy-in from management, freedom to experiment and work on non-customer-facing code, and trust across various teams all allowed these tools to be deployed and along with them, a culture of tooling, sharing, and collaboration.
 ## The Value of the Story
-## Ryn’s Story
-## Jennifer’s Story
-## Illustrating Devops with Stories
+- Each of us thinks our own thoughts. Our concepts we share.
+- It is important to link between abstract cultural practices and real-world experiences in order to draw from them.
 # Chapter 2. What Is Devops?
 ## A Prescription for Culture
 ## The Devops Equation
