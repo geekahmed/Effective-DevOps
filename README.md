@@ -6,9 +6,6 @@ This is my summary of the Effective DevOps, by Jennifer Davis and Ryn Daniels. C
 	- [A Snapshot of Devops Culture](#A-Snapshot-of-Devops-Culture)
 	- [The Evolution of Culture](#the-evolution-of-culture)
 	- [The Value of the Story](#the-value-of-the-story)
-	- [Ryn’s Story](#ryns-story)
-	- [Jennifer’s Story](#Jennifers-Story)
-	- [Illustrating Devops with Stories](#Illustrating-Devops-with-Stories)
 - [Chapter 2. What Is Devops?](#chapter-2-what-is-devops)
 	- [A Prescription for Culture](#A-Prescription-for-Culture)
 	- [The Devops Equation](#The-Devops-Equation)
@@ -33,8 +30,20 @@ This is my summary of the Effective DevOps, by Jennifer Davis and Ryn Daniels. C
 - Each of us thinks our own thoughts. Our concepts we share.
 - It is important to link between abstract cultural practices and real-world experiences in order to draw from them.
 # Chapter 2. What Is Devops?
+- Devops is a cultural movement that changes
+	- how individuals think about their work
+	- values the diversity of work done
+	- supports intentional processes that accelerate the rate by which businesses realize value
+	- measures the effect of social and technical change
 ## A Prescription for Culture
+- Devops is about finding ways to adapt and innovate social structure, culture, and technology together in order to work more effectively.
 ## The Devops Equation
+- A sustainable, successful business is more than the development and operations teams.
+- Limiting our thinking to just those teams who write software or deploy it into production does the entire business a disservice.
 ### Devops as Folk Model
+- DevOps has become a folk model, a term used with different intent that leads to miscommunication and misunderstanding.
 ### The Old View and the New View
+- In an environment where humans are blamed and punished for errors, a culture of fear can build up walls that prevent clear communication and transparency.
+- Contrast this with a blameless environment, where issues are addressed cooperatively and viewed as learning opportunities for individuals and the organization.
 ### The Devops Compact
+- The heart of devops starts with people working not only as groups but as teams with a desire for mutual understanding.
