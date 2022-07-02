@@ -13,6 +13,17 @@ This is my summary of the Effective DevOps, by Jennifer Davis and Ryn Daniels. C
 		- [The Old View and the New View](#The-Old-View-and-the-New-View)
 		- [The Devops Compact](#The-Devops-Compact)
 - [Chapter 3. A History of Devops](#chapter-3-a-history-of-devops)
+	- [Developer as Operator](#Developer-as-Operator)
+	- [The Advent of Software Engineering](#The-Advent-of-Software-Engineering)
+	- [The Advent of Proprietary Software and Standardization](#The-Advent-of-Proprietary-Software-and-Standardization)
+	- [The Age of the Network](#The-Age-of-the-Network)
+	- [The Beginnings of a Global Community](#The-Beginnings-of-a-Global-Community)
+	- [The Age of Applications and the Web](#The-Age-of-Applications-and-the-Web)
+	- [The Growth of Software Development Methodologies](#The-Growth-of-Software-Development-Methodologies)
+	- [Open Source Software, Proprietary Services](#Open-Source-Software-Proprietary-Services)
+	- [Agile Infrastructure](#Agile-Infrastructure)
+	- [The Beginning of devopsdays](#The-Beginning-of-devopsdays)
+	- [The Current State of Devops](#The-Current-State-of-Devops)
 - [Chapter 4. Foundational Terminology and Concepts](#chapter-4-Foundational-Terminology-and-Concepts)
 - [Chapter 5. Devops Misconceptions and Anti-Patterns](#chapter-5-Devops-Misconceptions-and-Anti--Patterns)
 - [Chapter 6. The Four Pillars of Effective Devops ](#chapter-6-The-Four-Pillars-of-Effective-Devops)
@@ -47,3 +58,15 @@ This is my summary of the Effective DevOps, by Jennifer Davis and Ryn Daniels. C
 - Contrast this with a blameless environment, where issues are addressed cooperatively and viewed as learning opportunities for individuals and the organization.
 ### The Devops Compact
 - The heart of devops starts with people working not only as groups but as teams with a desire for mutual understanding.
+# Chapter 3. A History of Devops
+## Developer as Operator
+## The Advent of Software Engineering
+## The Advent of Proprietary Software and Standardization
+## The Age of the Network
+## The Beginnings of a Global Community
+## The Age of Applications and the Web
+## The Growth of Software Development Methodologies
+## Open Source Software, Proprietary Services
+## Agile Infrastructure
+## The Beginning of devopsdays
+## The Current State of Devops
