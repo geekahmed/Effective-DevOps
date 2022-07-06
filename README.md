@@ -49,3 +49,33 @@ This is my summary of the Effective DevOps, by Jennifer Davis and Ryn Daniels. C
 - The heart of devops starts with people working not only as groups but as teams with a desire for mutual understanding.
 # Chapter 3. A History of Devops
 Focusing on the culture and processes encourages iteration and improvement in how and why we do things. When we shift our focus from what to why, we are given the freedom and trust to establish meaningfulness and purpose for our work, which is a key element of job satisfaction. Engagement with work impacts outcomes without concentrating on achieving a specific outcome, allowing for happy and productive humans building the next leap for humankind.
+# Chapter 4. Foundational Terminology and Concepts
+- Devops is not so rigidly defined as to prohibit any particular methodology.
+## Software Development Methodologies
+- The process of splitting up development work, usually into distinct phases, is known as a software development methodology.
+	- Specification of deliverables or artifacts
+	- Development and verification of the code with respect to the specification
+	- Deployment of the code to its final customers or production environment
+- The waterfall methodology or model is a project management process with an emphasis on a sequential progression from one stage of the process to the next.
+- Agile is the name given to a group of software development methodologies that are designed to be more lightweight and flexible than previous methods such as waterfall.
+- Scrum is a software development methodology that focuses on maximizing a development team’s ability to quickly respond to changes in both project and customer requirements.
+## Operations Methodologies
+- ITIL, formerly known as Information Technology Infrastructure Library, is a set of practices defined for managing IT services.
+- Control Objectives for Information and Related Technology (COBIT) is an ISACA framework for governance and management of information and technology first released in 1996.
+- COBIT is based on 5 principles:
+	- meeting stakeholder needs;
+	- covering the enterprise from end to end;
+	- applying a single integrated framework;
+	- enabling a holistic approach; and
+	- separating governance from management.
+## Systems Methodologies
+- Some methodologies focus on thinking about systems as a whole, rather than limiting focus to more specific areas such as software development or IT operations.
+- Lean systems focus on the parts of the system that add value by eliminating waste everywhere else, whether that be overproduction of some parts, defective products that have to be rebuilt, or time spent waiting on some other part of the system.
+## Development, Release, and Deployment Concepts
+- A version control system records changes to files or sets of files stored within the system.
+- In test-driven development, the code developer starts by writing a failing test for the new code functionality, then writes the code itself, and finally ensures that the test passes when the code is complete.
+- Application deployment is the process of planning, maintaining, and executing on the delivery of a software release.
+- Continuous integration (CI) is the process of integrating new code written by developers with a mainline or “master” branch frequently throughout the day.
+- Continuous delivery (CD) is a set of general software engineering principles that allow for frequent releases of new software through the use of automated testing and continuous integration.
+- Continuous deployment (CD) is the process of deploying changes to production by defining tests and validations to minimize risk.
+- The idea of the minimum viable product (MVP) is to create a prototype of a proposed product with the minimum amount of effort required to determine if the idea is a good one.
