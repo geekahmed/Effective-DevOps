@@ -3,15 +3,7 @@ This is my summary of the Effective DevOps, by Jennifer Davis and Ryn Daniels. C
 # Table of Contents
 - [Table of Contents](#table-of-contents)
 - [Chapter 1. The Big Picture](#chapter-1-the-big-picture)
-	- [A Snapshot of Devops Culture](#A-Snapshot-of-Devops-Culture)
-	- [The Evolution of Culture](#the-evolution-of-culture)
-	- [The Value of the Story](#the-value-of-the-story)
 - [Chapter 2. What Is Devops?](#chapter-2-what-is-devops)
-	- [A Prescription for Culture](#A-Prescription-for-Culture)
-	- [The Devops Equation](#The-Devops-Equation)
-		- [Devops as Folk Model](#devops-as-folk-model)
-		- [The Old View and the New View](#The-Old-View-and-the-New-View)
-		- [The Devops Compact](#The-Devops-Compact)
 - [Chapter 3. A History of Devops](#chapter-3-a-history-of-devops)
 - [Chapter 4. Foundational Terminology and Concepts](#chapter-4-Foundational-Terminology-and-Concepts)
 - [Chapter 5. Devops Misconceptions and Anti-Patterns](#chapter-5-Devops-Misconceptions-and-Anti--Patterns)
@@ -92,3 +84,5 @@ Focusing on the culture and processes encourages iteration and improvement in ho
 - Incident retrospectives would be more effective if they focused on learning rather than punishment.
 - Organizational learning is the process of collecting, growing, and sharing an organization’s body of knowledge.
 - Organizational learning as a goal is part of what separates blameful cultures from blameless ones, as blameful cultures are often much more focused on punishment than on learning, whereas a blameless or learning organization takes value from experiences and looks for lessons learned and knowledge gained, even from negative experiences.
+# Chapter 5. Devops Misconceptions and Anti-Patterns
+
