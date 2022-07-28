@@ -1,14 +1,30 @@
+# Effective DevOps - Building a culture of collaboration, affinity, and tooling at scale
+
 This is my summary of the Effective DevOps, by Jennifer Davis and Ryn Daniels. Contributions: Issues, comments and pull requests are super welcome.
+
+If you want to download the book, please use this link: https://www.oreilly.com/library/view/effective-devops/9781491926291/
+
 <!-- TOC depthFrom:1 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
 # Table of Contents
-- [Table of Contents](#table-of-contents)
 - [Chapter 1. The Big Picture](#chapter-1-the-big-picture)
 - [Chapter 2. What Is Devops?](#chapter-2-what-is-devops)
 - [Chapter 3. A History of Devops](#chapter-3-a-history-of-devops)
 - [Chapter 4. Foundational Terminology and Concepts](#chapter-4-Foundational-Terminology-and-Concepts)
-- [Chapter 5. Devops Misconceptions and Anti-Patterns](#chapter-5-Devops-Misconceptions-and-Anti--Patterns)
+- [Chapter 5. Devops Misconceptions and Anti-Patterns](#chapter-5-devops-misconceptions-and-anti-patterns)
 - [Chapter 6. The Four Pillars of Effective Devops ](#chapter-6-The-Four-Pillars-of-Effective-Devops)
-- [Chapter 7. Collaboration: Individuals Working Together](#chapter-7-living-in-a-world-of-systems)
+- [Chapter 7. Collaboration: Individuals Working Together](#chapter-7-Collaboration-Individuals-Working-Together)
+- [Chapter 8. Collaboration: Misconceptions and Troubleshooting](#chapter-8-Collaboration-Misconceptions-and-Troubleshooting)
+- [Chapter 9. Affinity: From Individuals to Teams](#)
+- [Chapter 10. Affinity: Misconceptions and Troubleshooting](#)
+- [Chapter 11. Tools: Ecosystem Overview](#)
+- [Chapter 12. Tools: Accelerators of Culture](#)
+- [Chapter 13. Tools: Misconceptions and Troubleshooting](#)
+- [Chapter 14. Scaling: Inflection Points](#)
+- [Chapter 15. Scaling: Misconceptions and Troubleshooting](#)
+- [Chapter 16. Building Bridges with the Four Pillars of Effective Devops](#)
+- [Chapter 17. Bridging Devops Cultures: Learning from Our Stories](#)
+- [Chapter 18. Bridging Devops Cultures: Fostering Human Connections](#)
+- [Chapter 19. Conclusion](#)
 <!-- /TOC -->
 
 # Chapter 1. The Big Picture
@@ -85,4 +101,64 @@ Focusing on the culture and processes encourages iteration and improvement in ho
 - Organizational learning is the process of collecting, growing, and sharing an organization’s body of knowledge.
 - Organizational learning as a goal is part of what separates blameful cultures from blameless ones, as blameful cultures are often much more focused on punishment than on learning, whereas a blameless or learning organization takes value from experiences and looks for lessons learned and knowledge gained, even from negative experiences.
 # Chapter 5. Devops Misconceptions and Anti-Patterns
-
+## Common Devops Misconceptions
+### Devops Only Involves Developers and System Administrators
+- There is no one definitive list of which teams or individuals should be involved or how, just as there is no one-size-fits-all way to “do devops.”
+- Ideas that help development and operations teams communicate better and work more efficiently together can be applied throughout a company. Any team within the organization should be considered.
+### Devops Is a Team
+- Creating a team called devops, or renaming an existing team to devops, is neither necessary nor sufficient for creating a devops culture.
+- Keep in mind that devops is a culture and a process, and name and structure your teams accordingly.
+### Devops Is a Job Title
+- It might be necessary to have the developers deploying the code and maintaining the infrastructure in the early days of an organization, but as a company matures and grows, it makes sense to have people become more specialized in their job roles.
+- When choosing your job, make sure that the higher salary doesn’t come at the cost of less personal time and higher rates of burnout.
+### Devops Is Relevant Only to Web Startups
+- Web startups are not alone in benefiting from improved collaboration, affinity, and tools. It is easier to iterate on team structures and processes at a small startup; enterprises have been trained to resist rapid change and governmental agencies even more so with laws that may actively restrict and impede change.
+- Change is possible even in these sorts of organizations, however.
+### You Need a Devops Certification
+- A significant part of devops is about culture: how do you certify culture? There is no 60-minute exam that can certify how effectively you communicate with other people, how well teams in your company work together, or how your organization learns.
+- Devops doesn’t have required technology or one-size-fits-all solutions. Certification exams are testing knowledge where there are clear right or wrong answers, which devops generally does not have.
+### Devops Means Doing All the Work with Half the People
+- Devops doesn’t save money by halving the number of engineers your company needs. Rather, it allows organizations to increase the quality and efficiency of their work, reducing the number and duration of outages, shortening development times, and improving both individual and team effectiveness.
+### There Is One “Right Way” (or “Wrong Way”) to Do Devops
+- Devops encourages critical thinking about processes, tools, and practices; being a learning organization requires questioning and iterating on processes, not accepting things as the “one true way” or the way that things have always been done.
+- Cargo culting processes and tools into an environment can lead to the creation of additional silos and resistance to change.
+- **Cargo culting** describes the practice of emulating observed behaviors or implementing tools into an environment without fully understanding the reasoning or circumstances that led to success using those strategies.
+### It Will Take X Weeks/Months to Implement Devops
+- Because so much of devops is cultural, it is harder to predict how long some of those changes will take: how long will it take people to break old siloed habits and replace them with new collaborative ones? This cannot be easily predicted, but don’t let that stop you from working toward these kinds of significant cultural transformations.
+### Devops Is All About the Tools
+- While tools are valuable, devops does not mandate or require any particular ones. This misconception is a contributing factor to the idea that devops is only for startups, as enterprise companies are often less able to adopt new technologies.
+- Devops is a cultural movement. Within your environment the tools you use currently are part of your culture.
+### Devops Is About Automation
+- Automation is critical to us as systems become more complex and organizations become interdependent due to shared services. Without shared mutual context or concern for human needs, however, automation creates unknown additional risk.
+- Automation may make work faster, but in order to be most effective it must also increase transparency, collaboration, and understanding.
+### Devops Is a Fad
+- Many of the driving ideas behind the devops movement have indeed been around for some time under different names, but the zeitgeist of devops as something more than the sum of its parts is new and different.
+- People have certainly argued against functional silos before, suggested learning organizations, advocated for humane systems, or advocated for automation and measurement.
+## Devops Anti-Patterns
+### Blame Culture
+- A blame (or blameful) culture is one that tends toward blaming and punishing people when mistakes are made, either at an individual or an organizational level.
+- Heavily segregated or segmented environments that lack an appreciation for transparency are fertile ground for blame culture.
+- When people are too focused on simply avoiding having a finger pointed at them, they are less focused on learning and collaboration.
+### Silos
+- A departmental or organizational silo describes the mentality of teams that do not share their knowledge with other teams in the same company. Instead of having common goals or responsibilities, siloed teams have very distinct and segregated roles.
+- Silos come from a lack of communication and collaboration between teams, not simply from a separation of duties.
+### Root Cause Analysis
+- Root cause analysis (RCA) is a method to identify contributing and “root” causes of events or near-misses/close calls and the appropriate actions to prevent recurrence.
+### Human Error
+- Human error, the idea that a human being made a mistake that directly caused a failure, is often cited as the root cause in a root cause analysis.
+- In a blameful culture, discussion stops with the finding that a specific person made a mistake, with the focus often being on who made the mistake and its end result. In a blameless culture or a learning organization, a human error is seen as a starting point rather than an ending one, sparking a discussion on the context surrounding the decision and why it made sense at the time.
+# Chapter 6. The Four Pillars of Effective Devops
+- The four pillars of effective devops:
+	- Collaboration
+	- Affinity
+	- Tools
+	- Scaling
+- The combination of these four pillars will enable you to address both the cultural and technical aspects of your organization.
+## Collaboration
+- Collaboration is the process of building toward a specific outcome through supporting interactions and the input of multiple people.
+## Affinity
+- In addition to the growth and maintenance of collaborative relationships between individuals, teams and departments within an organization and across the industry at large need to have strong relationships.
+## Tools
+- Tools are an accelerator, driving change based on the current culture and direction.
+## Scaling
+- Scaling is a focus on the processes and pivots that organizations must adopt throughout their lifecycles.
