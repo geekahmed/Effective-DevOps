@@ -79,3 +79,16 @@ Focusing on the culture and processes encourages iteration and improvement in ho
 - Continuous delivery (CD) is a set of general software engineering principles that allow for frequent releases of new software through the use of automated testing and continuous integration.
 - Continuous deployment (CD) is the process of deploying changes to production by defining tests and validations to minimize risk.
 - The idea of the minimum viable product (MVP) is to create a prototype of a proposed product with the minimum amount of effort required to determine if the idea is a good one.
+## Infrastructure Concepts
+- Configuration management is the process of establishing and maintaining the consistency of something’s functional and physical attributes as well as performance throughout its lifecycle.
+- A key part of devops is being able to assess and evaluate different tools and processes to find the most effective one for your environment, and it is absolutely possible to do that without moving to cloud-based infrastructure.
+- Infrastructure automation is a way of creating systems that reduces the burden on people to manage the systems and their associated services, as well as increasing the quality, accuracy, and precision of a service to its consumers.
+- An artifact is the output of any step in the software development process.
+- Software containers are isolated structures that can be developed and deployed relatively independently from the underlying operating system or hardware.
+## Cultural Concepts
+- A retrospective is a discussion of a project that takes place after it has been completed, where topics such as what went well and what could be improved in future projects are considered.
+- Unlike the planned, regular nature of a retrospective, a postmortem occurs after an unplanned incident or outage, for cases where an event’s outcome was surprising to those involved and at least one failure of the system or organization was revealed.
+- Blamelessness is a concept that arose in contrast to the idea of blame culture.
+- Incident retrospectives would be more effective if they focused on learning rather than punishment.
+- Organizational learning is the process of collecting, growing, and sharing an organization’s body of knowledge.
+- Organizational learning as a goal is part of what separates blameful cultures from blameless ones, as blameful cultures are often much more focused on punishment than on learning, whereas a blameless or learning organization takes value from experiences and looks for lessons learned and knowledge gained, even from negative experiences.
