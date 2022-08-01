@@ -162,3 +162,39 @@ Focusing on the culture and processes encourages iteration and improvement in ho
 - Tools are an accelerator, driving change based on the current culture and direction.
 ## Scaling
 - Scaling is a focus on the processes and pivots that organizations must adopt throughout their lifecycles.
+# Chapter 7. Collaboration: Individuals Working Together
+- Collaboration is the process of building toward a specific outcome through the interactions, input, and support of multiple people.
+- Effective collaboration includes communication, equal participation, and Theory of Mind (ToM).
+- Theory of Mind (ToM) is the ability to recognize one’s own perspective, and that others have a distinct and different perspective born from their own context.
+- There are great benefits to be gained from diverse teams in terms of creativity, problem solving, and productivity, but this differentiation can lead to short-term interpersonal conflicts, either personally or professionally.
+- Professional Backgrounds:
+	- Enterprise versus startup experience
+	- Technical fluency
+	- Role hierarchies
+	- Different paths to engineering
+	- Years of experience
+- When looking at the people on your team, it’s important to consider how effective they are at teaching or mentoring, in addition to just their technical skills, to ensure that your growth isn’t blocked by access to the experienced talent pool.
+- Increasing the diversity of a team means ensuring a wider range of personal backgrounds. Including aspects such as gender, sexuality, race, class, primary language, ability, and education level, diverse personal backgrounds can increase the strength of an engineering, product-focused, or customer-support-driven organization by bringing a greater number of experiences and points of view to the table.
+- Diversity also leads to increased friction, so that the teams should make adjustments to their expectations, processes, and potentially behaviors in order to alleviate this friction.
+- The value of these initiatives is to foster an environment of safety, respect, and inclusion. Without personal safety, there is unlikely to be trust between employees. Personal backgrounds tend to contribute to power differentials that can affect or even prevent negotiation.
+- While team members work toward the same goals and share responsibility for success, individuals on a team may have different personal and professional goals that can add to conflict when these differences are construed negatively. Being aware of these different motivations can help establish better understanding and empathy between team members.
+- Friction between individuals can also arise from the different ways people process information, or their cognitive style.
+- Key styles that might come into play in a workplace environment:
+	- Introvert, ambivert, and extrovert
+		- **Introvert**: recover energy by being alone or in small well-known groups.
+		- **Extrovert**:  recharge by being around and interacting with lots of people.
+		- **Ambivert**: are somewhere in the middle, capable of recharging alone or with others depending on circumstances.
+	- Asker versus guesser
+		- **Asker**: feels that it’s all right to ask for most things, with the understanding that they may well get “no”.
+		- **Guesser**: tend to read more into situations and avoid asking for things unless they’re fairly certain that the answer will be “yes.”
+	- Starter versus finisher
+		- **Starters**: are people who love coming up with new ideas and getting them off the ground; they are energized by the process of beginning a new project.
+		- **Finishers**: like tying up loose ends, fixing any remaining issues in a project.
+	- Analytical, critical and lateral thinkers
+		- **Analytical thinkers**: focuse on facts and evidence, dissects complex issues into simpler pieces, and eliminates extraneous information or invalid alternatives.
+		- **Lateral thinkers**: gathers information more indirectly, finds missing elements, examines issues from multiple perspectives, and eliminates stereotypical patterns of thought.
+		- **Critical thinkers**: involve evaluating and analyzing information and reflecting upon it in order to form judgments.
+	- Purist versus pragmatist
+		- **Purist**: look to use the absolute best technology to solve a problem, and if that perfect technology doesn’t exist, they will want to create their own.
+		- **Pragmatist**: much more focused on practicality, weighing the cost of trying to create an ideal solution versus working within the realities of their current environments and constraints.
+- If your team doesn’t have a good balance between starters and finishers, and purists and pragmatists, that can lead to issues with overall team productivity and quality.
