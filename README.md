@@ -198,3 +198,8 @@ Focusing on the culture and processes encourages iteration and improvement in ho
 		- **Purist**: look to use the absolute best technology to solve a problem, and if that perfect technology doesn’t exist, they will want to create their own.
 		- **Pragmatist**: much more focused on practicality, weighing the cost of trying to create an ideal solution versus working within the realities of their current environments and constraints.
 - If your team doesn’t have a good balance between starters and finishers, and purists and pragmatists, that can lead to issues with overall team productivity and quality.
+- **Mentorship**: Organizations that are willing to invest in the growth and development of junior engineers will have a competitive advantage, not only because it grows the organization’s talent pool, but because skilled engineers are much more likely to stay in a place where they feel supported regardless of their current level of experience.
+	- Setting up a formal mentoring program can go a long way here.
+- **Sponsorship**: It’s important for organizations to create a comprehensive program that educates employees on what is required to be a sponsor, how to assess a potential protégé, and how to find and assess a sponsor.
+- **Education**: Train people well enough so they can leave, treat them well enough so they don’t want to.
+- 
