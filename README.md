@@ -202,4 +202,14 @@ Focusing on the culture and processes encourages iteration and improvement in ho
 	- Setting up a formal mentoring program can go a long way here.
 - **Sponsorship**: It’s important for organizations to create a comprehensive program that educates employees on what is required to be a sponsor, how to assess a potential protégé, and how to find and assess a sponsor.
 - **Education**: Train people well enough so they can leave, treat them well enough so they don’t want to.
+- A successful formal mentorship program educates mentors and mentees to their respective purposes, roles, and obligations.
+- A healthy mentorship flows both ways, allowing for each participant in the relationship to grow and learn.
+- Some common types of mentorship:
+	- Senior-to-Junior Mentoring
+	- Senior-to-Senior Mentoring
+	- Junior-to-Senior Mentoring
+	- Junior-to-Junior Mentoring
+- Mindsets are our personal beliefs about ourselves, and how we approach our possibilities.
+- A fixed mindset—believing that skills and traits are innate and static—makes people feel that they have to constantly prove themselves to others.
+- Growth mindsets lend themselves much more to individual learning and learning environments.
 - 
